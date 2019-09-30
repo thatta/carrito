@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\entity\Venta.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\dto\DTOUsuario.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\dto\DTOProducto.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\interfaces\ProductoFacadeLocal.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\bean\AbstractFacade.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\bean\ProductoFacade.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\entity\Venta_producto.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\entity\Usuario.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\entity\Producto.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\interfaces\UsuarioFacadeLocal.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\bean\UsuarioFacade.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\dto\Criptado.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\interfaces\VentaFacadeLocal.java
+C:\Users\USER\Documents\NetBeansProjects\CarroCompras\CarroCompras-ejb\src\main\java\com\mycompany\bean\VentaFacade.java
